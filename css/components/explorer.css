@@ -2,12 +2,6 @@
    CNDS Explorer
    Cloudficient Nimbus Design System v1.0.0
 
-   Ported from nimbus-v8/css/nimbus.css with v9 token and font updates:
-   - GalaxiePolaris-Bold/Book/Medium → "Nunito" weight 700/400/500
-   - --cnds-bkgnd-light     → var(--cnds-tertiary-bg, #f4f5f8)
-   - --cnds-border-light-gray → var(--cnds-border-color, #dde0e4)
-   - --cnds-white           → #fff
-   - --cnds-primary         → var(--cnds-link-color, #215aab)
    ============================================================ */
 
 .cf-explorer {

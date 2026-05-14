@@ -284,13 +284,15 @@
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 0.7px;
-  font-family: GalaxiePolaris-Bold, Helvetica, Arial, sans-serif;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
+  font-weight: 700;
   padding-bottom: 15px;
 }
 
 .carousel .cf-media-box-content h4.cf-media-box-headline {
   color: var(--cnds-body-color, #292929);
-  font-family: GalaxiePolaris-Bold, Helvetica, Arial, sans-serif;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
+  font-weight: 700;
   font-size: 20px;
   padding-bottom: 5px;
   line-height: normal;
@@ -306,7 +308,8 @@
 .carousel .text-button__red {
   position: relative;
   color: var(--cnds-link-color, #215aab);
-  font-family: GalaxiePolaris-Bold, Helvetica, Arial, sans-serif;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
+  font-weight: 700;
   padding-bottom: 5px;
   font-size: 1pc;
   background-image: linear-gradient(
